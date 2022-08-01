@@ -1,6 +1,6 @@
 {
   "name": "multipage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "multipage-cli for create multipage app",
   "main": "index.js",
   "bin": {
